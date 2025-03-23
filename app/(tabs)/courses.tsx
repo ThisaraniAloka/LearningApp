@@ -1,7 +1,7 @@
 import { View, Text, ScrollView, TouchableOpacity, StyleSheet, Image } from "react-native";
 import { useState } from "react";
 import { FontAwesome } from "@expo/vector-icons";
-
+//update
 const ongoingCourses = [
   { id: 1, name: "React Native Basics", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HEr6fykbgN_GnedAp8PnRmCSGi96QBnqkA&s" },
   { id: 2, name: "Advanced JavaScript", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjplyu-rILMIaKhSihUMbqrTTXseXvpJnJ_A&s" },
